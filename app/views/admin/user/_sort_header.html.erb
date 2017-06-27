@@ -1,0 +1,5 @@
+<% sort_dir = params.fetch(:sort_dir, 'DESC') == 'DESC' ? 'ASC' : 'DESC' %>
+<th>
+  <%= link_to link_text, admin_user_index_path(page: params[:page], per_page: params[:per_page], sort_dir: sort_dir, sort_by: sort_field) %>
+  <%= sort_dir == 'DESC' ? '(asc)' : '(desc)' %>
+</th>

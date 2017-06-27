@@ -1,0 +1,7 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "rails_bootstrap_forms";
+
+div.pagination-right .pagination {
+  float: right !important;
+}

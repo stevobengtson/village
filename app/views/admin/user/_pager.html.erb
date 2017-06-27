@@ -1,0 +1,11 @@
+<div class="row">
+  <div class="col-md-6">
+    <div style="margin: 20px; padding: 6px">
+      <%= users.current_page * users.size - users.size + 1 %> to <%= users.current_page * users.size %> of
+      <%= users.total_count %> Users
+    </div>
+  </div>
+  <div class="col-md-6 pagination-right">
+    <%= paginate @users %>
+  </div>
+</div>

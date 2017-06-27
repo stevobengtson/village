@@ -1,0 +1,6 @@
+<%= bootstrap_form_for(@user, url: admin_user_path(@user)) do |f| %>
+  <%= f.email_field :email %>
+  <%= f.check_box :admin %>
+  <%= f.primary 'Update' %>
+  <%= link_to 'Back', admin_user_index_path, class: 'btn btn-default' %>
+<% end %>

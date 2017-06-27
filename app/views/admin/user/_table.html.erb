@@ -1,0 +1,16 @@
+<div class="table-responsive">
+  <table class="table table-striped table-hover table-condensed table-bordered">
+    <thead>
+      <tr>
+        <th></th>
+        <%= render partial: 'sort_header', locals: { link_text: 'Email', sort_field: 'email'} %>
+        <th>Switch</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% users.each.with_index do |user, index| %>
+        <%= render partial: 'user_row', locals: { user: user, index: index } %>
+      <% end %>
+    </tbody>
+  </table>
+</div>

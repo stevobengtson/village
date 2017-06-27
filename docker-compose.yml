@@ -1,0 +1,31 @@
+version: '3'
+services:
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_PASSWORD=M3WgZtABAvcMsygJ
+      - POSTGRES_USER=village
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis
+
+  web:
+    build: .
+    command: bundle exec rails server
+    environment:
+      - VILLAGE_REDIS_URL=redis://redis:6379
+      - VILLAGE_DATABASE_USERNAME=village
+      - VILLAGE_DATABASE_PASSWORD=M3WgZtABAvcMsygJ
+    volumes:
+      - .:/village
+      - bundle-data:/bundle
+    ports:
+      - "3000:3000"
+    depends_on:
+      - db
+      - redis
+
+volumes:
+  bundle-data:

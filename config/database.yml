@@ -1,0 +1,19 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  host: <%= ENV['VILLAGE_DATABASE_HOST'] || 'db' %>
+  username: <%= ENV['VILLAGE_DATABASE_USERNAME'] || 'postgres' %>
+  password: <%= ENV['VILLAGE_DATABASE_PASSWORD'] %>
+
+development:
+  <<: *default
+  database: <%= ENV['VILLAGE_DATABASE_SCHEMA'] || 'village' %>_development
+
+test:
+  <<: *default
+  database: <%= ENV['VILLAGE_DATABASE_SCHEMA'] || 'village' %>_test
+
+production:
+  <<: *default
+  database: <%= ENV['VILLAGE_DATABASE_SCHEMA'] || 'village' %>

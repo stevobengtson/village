@@ -1,0 +1,5 @@
+<tr>
+  <td><%= row_index(index) %></td>
+  <td><%= link_to user.email, edit_admin_user_path(user) %></td>
+  <td><%= link_to 'Switch', switch_user_index_path(id: user.id), method: :post %></td>
+</tr>

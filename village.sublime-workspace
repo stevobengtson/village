@@ -1,0 +1,966 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"client_",
+				"client_ledgerable_id"
+			],
+			[
+				"payment",
+				"payment_received_at"
+			],
+			[
+				"client_led",
+				"client_ledgerable_type"
+			],
+			[
+				"credit",
+				"credit_expirations"
+			],
+			[
+				"occurred",
+				"occurred_at"
+			],
+			[
+				"paymen",
+				"payment_received_at"
+			],
+			[
+				"sort",
+				"sorted_transactions"
+			],
+			[
+				"last",
+				"last_transfer_out"
+			],
+			[
+				"occurr",
+				"occurred_at"
+			],
+			[
+				"assert",
+				"assert_no_difference"
+			],
+			[
+				"auto",
+				"auto_transfers"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"tutor",
+				"tutoring_session_c"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test/test_helper.rb",
+			"settings":
+			{
+				"buffer_size": 284,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/integration/home_flow_test.rb",
+			"settings":
+			{
+				"buffer_size": 187,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "require 'test_helper'"
+			}
+		},
+		{
+			"file": "test/fixtures/users.yml",
+			"settings":
+			{
+				"buffer_size": 353,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 221,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/steven/Documents/projects/rails/village",
+		"/Users/steven/Documents/projects/rails/village/app",
+		"/Users/steven/Documents/projects/rails/village/app/controllers",
+		"/Users/steven/Documents/projects/rails/village/app/policies",
+		"/Users/steven/Documents/projects/rails/village/app/views",
+		"/Users/steven/Documents/projects/rails/village/app/views/home",
+		"/Users/steven/Documents/projects/rails/village/test",
+		"/Users/steven/Documents/projects/rails/village/test/controllers",
+		"/Users/steven/Documents/projects/rails/village/test/fixtures",
+		"/Users/steven/Documents/projects/rails/village/test/helpers",
+		"/Users/steven/Documents/projects/rails/village/test/integration",
+		"/Users/steven/Documents/projects/rails/village/test/mailers",
+		"/Users/steven/Documents/projects/rails/village/test/models",
+		"/Users/steven/Documents/projects/rails/village/test/system"
+	],
+	"file_history":
+	[
+		"/Users/steven/Documents/projects/rails/village/test/application_system_test_case.rb",
+		"/Users/steven/Documents/projects/rails/village/Gemfile",
+		"/Users/steven/Documents/projects/rails/village/app/controllers/application_controller.rb",
+		"/Users/steven/Documents/projects/rails/village/app/policies/user_policy.rb",
+		"/Users/steven/Documents/projects/rails/village/.rubocop.yml",
+		"/Users/steven/Documents/projects/rails/village/app/views/layouts/application.html.erb",
+		"/Users/steven/Documents/projects/rails/village/config/database.yml",
+		"/Users/steven/Documents/projects/rails/village/config/local_env.yml",
+		"/Users/steven/Documents/projects/rails/village/config/application.rb",
+		"/Users/steven/Documents/projects/rails/village/app/views/layouts/.rvmrc",
+		"/Users/steven/Documents/projects/rails/village/.ruby-version",
+		"/Users/steven/Documents/projects/rails/village/.ruby-gemset",
+		"/Users/steven/Documents/projects/rails/village/db/seeds.rb",
+		"/Users/steven/Documents/projects/rails/village/docker-compose.yml",
+		"/Users/steven/Documents/projects/rails/village/config/environments/development.rb",
+		"/Users/steven/Documents/projects/rails/village/app/assets/javascripts/application.js",
+		"/Users/steven/Documents/projects/rails/village/app/controllers/home_controller.rb",
+		"/Users/steven/Documents/projects/rails/village/app/views/home/index.html.erb",
+		"/Users/steven/Documents/projects/rails/village/config/routes.rb",
+		"/Users/steven/Documents/projects/rails/village/app/assets/stylesheets/application.scss",
+		"/Users/steven/Documents/projects/rails/village/test/fixtures/users.yml",
+		"/Users/steven/Documents/projects/rails/village/test/models/user_test.rb",
+		"/Users/steven/Documents/projects/rails/village/db/migrate/20170622060526_devise_create_users.rb",
+		"/Users/steven/Documents/projects/rails/village/app/models/user.rb",
+		"/Users/steven/Documents/projects/rails/village/db/migrate/20170622055159_devise_create_users.rb",
+		"/Users/steven/Documents/projects/rails/village/db/migrate/20170622054854_add_user_table.rb",
+		"/Users/steven/Documents/projects/rails/village/Dockerfile",
+		"/Users/steven/Documents/projects/rails/village/config/puma.rb",
+		"/Users/steven/Documents/projects/rails/village/Gemfile.lock",
+		"/Users/steven/Documents/projects/village/package.json",
+		"/Users/steven/Documents/projects/village/node_modules/angular-ui-bootstrap/dist/ui-bootstrap.js",
+		"/Users/steven/Documents/projects/village/src/app/app.module.ts",
+		"/Users/steven/Documents/projects/village/src/app/app.component.ts",
+		"/Users/steven/Documents/projects/village/Dockerfile",
+		"/Users/steven/projects/varsitytutors/docker-compose.yml",
+		"/Users/steven/projects/varsitytutors/app/views/payments/ajax_load_credit_management.html.erb",
+		"/Users/steven/projects/varsitytutors/db/data/20170526174225_update_order_for_client_rate_types.rb",
+		"/Users/steven/projects/varsitytutors/db/seeds/client_rate_types.seeds.rb",
+		"/Users/steven/projects/varsitytutors/app/models/client_rate_type.rb",
+		"/Users/steven/projects/varsitytutors/lib/varsity_tutors/credits.rb",
+		"/Users/steven/projects/varsitytutors/app/api/vt/entities/package/info.rb",
+		"/Users/steven/projects/varsitytutors/app/views/payments/_buy.html.erb",
+		"/Users/steven/projects/varsitytutors/app/views/payments/_rate_types.html.erb",
+		"/Users/steven/projects/varsitytutors/test/models/payment_option_test.rb",
+		"/Users/steven/projects/varsitytutors/config/database.yml",
+		"/Users/steven/projects/varsitytutors/test/controllers/alpha/clients_controller_test.rb",
+		"/Users/steven/projects/varsitytutors/app/views/clients/profile/account_activity_tab.html.erb",
+		"/Users/steven/projects/varsitytutors/lib/clients/transaction_search.rb",
+		"/Users/steven/projects/varsitytutors/db/schema.rb",
+		"/Users/steven/projects/varsitytutors/lib/client_ledgers/manager.rb",
+		"/Users/steven/projects/varsitytutors/lib/tasks/client_ledger.rake",
+		"/Users/steven/projects/varsitytutors/app/models/tutoring_session.rb",
+		"/Users/steven/projects/varsitytutors/app/models/client_ledger.rb",
+		"/Users/steven/dumps/VTWA-12957/client_list_2017-05-24.csv",
+		"/Users/steven/dumps/VTWA-12957/client_list_2017-05-24_raw.csv",
+		"/Users/steven/projects/varsitytutors/lib/varsity_tutors/browser_phone_rollout.rb",
+		"/Users/steven/projects/varsitytutors/lib/tasks/admin.rake",
+		"/Users/steven/projects/varsitytutors/config/environments/staging_base.rb",
+		"/Users/steven/projects/varsitytutors/config/environments/delta.rb",
+		"/Users/steven/projects/varsitytutors/lib/financial/credit_transfer.rb",
+		"/Users/steven/projects/varsitytutors/lib/varsity_tutors/ledgers/tutoring_sessions.rb",
+		"/Users/steven/projects/varsitytutors/lib/instalments/refund.rb",
+		"/Users/steven/projects/varsitytutors/app/models/todo.rb",
+		"/Users/steven/projects/varsitytutors/lib/tasks/cron.rake",
+		"/Users/steven/projects/varsitytutors/test.rb",
+		"/Users/steven/dumps/VTWA-12957/clients_rebuild_ledger.csv",
+		"/Users/steven/projects/varsitytutors/app/api/vt/clients_ledgers.rb",
+		"/Users/steven/projects/varsitytutors/app/models/concerns/instalment_status_concern.rb",
+		"/Users/steven/dumps/VTWA-12957/clients_to_add_for_brian.txt",
+		"/Users/steven/dumps/VTWA-12957/clients_rebuild_ledger_old.csv",
+		"/Users/steven/dumps/VTWA-12957/clients_rebuild_ledger_unique.csv",
+		"/Users/steven/dumps/VTWA-12957/clients_rebuild_ledger_sorted.csv",
+		"/Users/steven/dumps/VTWA-12957/clients_rebuild_ledger_added.csv",
+		"/Users/steven/dumps/VTWA-12957/client_ledger_filtered_list.csv",
+		"/Users/steven/dumps/VTWA-12957/client_ledgers_rebuild_1000.csv",
+		"/Users/steven/projects/client_ledger_test.csv",
+		"/Users/steven/projects/varsitytutors/app/views/todo/index.html.erb",
+		"/Users/steven/projects/varsitytutors/app/views/todo/_todo_pipeline.html.erb",
+		"/Users/steven/projects/varsitytutors/app/views/metrics/todo_pipeline.html.erb",
+		"/Users/steven/projects/varsitytutors/test/lib/financial/credit_transfer_test.rb",
+		"/Users/steven/projects/varsitytutors/app/views/clients/profile/_ledgerable_history.html.erb",
+		"/Users/steven/projects/varsitytutors/app/views/clients/profile/activity_log.html.erb",
+		"/Users/steven/projects/varsitytutors/app/models/client_balance.rb",
+		"/Users/steven/projects/varsitytutors/lib/varsity_tutors/ledgers/credits.rb",
+		"/Users/steven/projects/varsitytutors/app/controllers/clients_controller.rb",
+		"/Users/steven/projects/varsitytutors/app/api/vt/contacts.rb",
+		"/Users/steven/projects/varsitytutors/app/api/v3/contacts.rb",
+		"/Users/steven/projects/varsitytutors/app/models/rate.rb",
+		"/Users/steven/projects/varsitytutors/app/models/credit.rb",
+		"/Users/steven/projects/varsitytutors/app/helpers/clients_helper.rb",
+		"/Users/steven/projects/varsitytutors/app/assets/javascripts/widgets/client_activity_log.js",
+		"/Users/steven/projects/varsitytutors/app/helpers/application_helper.rb",
+		"/Users/steven/projects/varsitytutors/app/models/concerns/attr_enum_concern.rb",
+		"/Users/steven/projects/varsitytutors/config/initializers/extentions.rb",
+		"/Users/steven/projects/varsitytutors/Gemfile",
+		"/Users/steven/projects/varsitytutors/app/assets/javascripts/employee_dashboard.js",
+		"/Users/steven/projects/varsitytutors/app/models/user.rb",
+		"/Users/steven/projects/varsitytutors/app/helpers/users_helper.rb",
+		"/Users/steven/projects/varsitytutors/app/views/tutoring_sessions/_select_actors.html.erb",
+		"/Users/steven/projects/varsitytutors/lib/varsity_tutors/tutoring_sessions.rb",
+		"/Users/steven/projects/varsitytutors/app/views/clients/profile/profile.html.erb",
+		"/Users/steven/projects/varsitytutors/config/initializers/vt_contact_adapter.rb",
+		"/Users/steven/projects/varsitytutors/app/models/contact.rb",
+		"/Users/steven/projects/varsitytutors/test/fixtures/rates.yml",
+		"/Users/steven/projects/varsitytutors/test/lib/financial/credit_transfer_tests.rb",
+		"/Users/steven/projects/varsitytutors/app/views/v_calls/_place_call_banner.html.erb",
+		"/Users/steven/projects/varsitytutors/test/factories/credit_factory.rb",
+		"/Users/steven/projects/varsitytutors/test/factories/tutoring_session_factory.rb",
+		"/Users/steven/projects/varsitytutors/lib/payment_processing.rb",
+		"/Users/steven/projects/varsitytutors/lib/instalments/instalment_plan.rb",
+		"/Users/steven/projects/varsitytutors/app/models/rollout.rb",
+		"/Users/steven/projects/varsitytutors/test/lib/payment_processing_test.rb",
+		"/Users/steven/projects/varsitytutors/app/helpers/payments_helper.rb",
+		"/Users/steven/projects/varsitytutors/lib/financial/rate_exchange.rb",
+		"/Users/steven/projects/varsitytutors/app/controllers/payments_controller.rb",
+		"/Users/steven/projects/varsitytutors/app/models/payment.rb",
+		"/Users/steven/projects/varsitytutors/app/controllers/tutoring_sessions_controller.rb",
+		"/Users/steven/projects/varsitytutors/db/seeds/development/tutors.seeds.rb",
+		"/Users/steven/projects/varsitytutors/start_docker.sh",
+		"/Users/steven/projects/varsitytutors/app/models/education/degree_tutor.rb",
+		"/Users/steven/projects/varsitytutors/app/models/client_ledger_split.rb",
+		"/Users/steven/projects/varsitytutors/app/models/credit_expiration.rb",
+		"/Users/steven/projects/varsitytutors.sublime-project",
+		"/Users/steven/projects/varsitytutors/lib/varsity_tutors/ledgers/other_charges.rb",
+		"/Users/steven/projects/varsitytutors/lib/instalments/payment.rb",
+		"/Users/steven/projects/varsitytutors/app/models/client.rb",
+		"/Users/steven/projects/varsitytutors/app/models/concerns/remote_tutor_concern.rb",
+		"/Users/steven/projects/varsitytutors/lib/varsity_tutors/ut_tutors.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+			"-*.tag*,-tag*,-*.log,-*.xml",
+			"-*.tag*,-*.log,-*.xml",
+			"-*.tag*,-*.log,-*.xml,*.rake",
+			"-*.tag*,-*.log,-*.xml",
+			"-*.tag*",
+			"-*.tag*,*.rb",
+			"-*.tag*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"rvt",
+			"village",
+			"‘|’",
+			"\\n",
+			"hours_to_convert_to",
+			"payment_hours_to",
+			", order",
+			"display_name",
+			"conversion_packages",
+			"payment_client_rate_type_id",
+			"<<<<<",
+			"hourly",
+			"82953",
+			"87292",
+			"98492",
+			"97204",
+			"96801",
+			"88274",
+			"86119",
+			"76365",
+			"74325",
+			"73073",
+			"70807",
+			"12025",
+			",",
+			"daily_at_8am_pacific",
+			"\\n",
+			"49280",
+			"_todo_pipeline",
+			"todo_page",
+			"vt_sales_mentor_lock_dialog",
+			"client_ledgerable_history",
+			"client_ledgerable_history_client",
+			"client-activity-details-button",
+			"ledgerable",
+			"STAGING_PASSWORD",
+			"IGNORE_PAST_EXPIRY",
+			"cover_shortfall",
+			"recover_unassociated_client_balances",
+			"cover_shortfall",
+			"Activity History",
+			"zero_in_ledger",
+			"revert_credit",
+			"zero_from_credit",
+			"Activity Log",
+			"client_value_transaction_types",
+			"CLIENT_VALUE_TRANSACTION_TYPES",
+			"<h2>Account</h2>",
+			"contact-requests",
+			"transfer_increment_account",
+			"record_session_client_ledger",
+			"cover_shortfall",
+			"transfer_to_cover_session",
+			"CreditTransfer",
+			"TRANSFER_IN",
+			"ENV",
+			"Transfer In",
+			"tutor_activity_data",
+			".btn[data-selected-rate-type=\"online\"",
+			"client_id",
+			"expire_credit",
+			"CreditExpiration",
+			",",
+			"travel_to",
+			"ip_override",
+			"BigDecimal",
+			"map",
+			"INGORE_PAST_EXPIRY",
+			"file_name",
+			"credit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'",
+			",",
+			", web_order",
+			"\\n",
+			",",
+			"','"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test/test_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test/integration/home_flow_test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"auto_name": "require 'test_helper'",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test/fixtures/users.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/home/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "village.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"application_con",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"databa",
+				"config/database.yml"
+			],
+			[
+				"docker",
+				"docker-compose.yml"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"test/fixtures/users.yml",
+				"test/fixtures/users.yml"
+			],
+			[
+				"test/models/user_test.rb",
+				"test/models/user_test.rb"
+			],
+			[
+				"app/models/user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"db/migrate/20170622060526_devise_create_users.rb",
+				"db/migrate/20170622060526_devise_create_users.rb"
+			],
+			[
+				"angular-ui-bootstrap",
+				"node_modules/angular-ui-bootstrap/dist/ui-bootstrap.js"
+			],
+			[
+				"db/seeds/client_rate_types.seeds.rb",
+				"db/seeds/client_rate_types.seeds.rb"
+			],
+			[
+				"client_rate_type",
+				"app/models/client_rate_type.rb"
+			],
+			[
+				"db/migrate/20170526191841_add_web_order_to_client_rate_types.rb",
+				"db/migrate/20170526191841_add_web_order_to_client_rate_types.rb"
+			],
+			[
+				"db/data/20170526174225_update_order_for_client_rate_types.rb",
+				"db/data/20170526174225_update_order_for_client_rate_types.rb"
+			],
+			[
+				"client_rate_ty",
+				"app/models/client_rate_type.rb"
+			],
+			[
+				"database.",
+				"config/database.yml"
+			],
+			[
+				"test/controllers/alpha/clients_controller_test.rb",
+				"test/controllers/alpha/clients_controller_test.rb"
+			],
+			[
+				"browser_phone_rol",
+				"lib/varsity_tutors/browser_phone_rollout.rb"
+			],
+			[
+				"admin.rake",
+				"lib/tasks/admin.rake"
+			],
+			[
+				"staging",
+				"config/environments/staging_base.rb"
+			],
+			[
+				"delta.rb",
+				"config/environments/delta.rb"
+			],
+			[
+				"transaction_sear",
+				"lib/clients/transaction_search.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"client_ledger",
+				"app/models/client_ledger.rb"
+			],
+			[
+				"tutoring_",
+				"app/models/tutoring_session.rb"
+			],
+			[
+				"lib/varsity_tutors/ledgers/tutoring_sessions.rb",
+				"lib/varsity_tutors/ledgers/tutoring_sessions.rb"
+			],
+			[
+				"instalment/refun",
+				"lib/instalments/refund.rb"
+			],
+			[
+				"lib/clients/transaction",
+				"lib/clients/transaction_search.rb"
+			],
+			[
+				"transaction_",
+				"lib/clients/transaction_search.rb"
+			],
+			[
+				"app/models/client_ledger",
+				"app/models/client_ledger.rb"
+			],
+			[
+				"clients_ledger.rb",
+				"app/api/vt/clients_ledgers.rb"
+			],
+			[
+				"instalment",
+				"app/models/concerns/instalment_status_concern.rb"
+			],
+			[
+				"todo_pipe",
+				"app/views/todo/_todo_pipeline.html.erb"
+			],
+			[
+				"activity_lo",
+				"app/views/clients/profile/activity_log.html.erb"
+			],
+			[
+				"clients/profile/ledgerab",
+				"app/views/clients/profile/_ledgerable_history.html.erb"
+			],
+			[
+				"activity_log",
+				"app/views/clients/profile/activity_log.html.erb"
+			],
+			[
+				"clients_controller",
+				"app/controllers/clients_controller.rb"
+			],
+			[
+				"transaction",
+				"lib/clients/transaction_search.rb"
+			],
+			[
+				"credit",
+				"app/models/credit.rb"
+			],
+			[
+				"exten",
+				"config/initializers/extentions.rb"
+			],
+			[
+				"attr_en",
+				"app/models/concerns/attr_enum_concern.rb"
+			],
+			[
+				"instalment_stat",
+				"app/models/concerns/instalment_status_concern.rb"
+			],
+			[
+				"clients_contro",
+				"app/controllers/clients_controller.rb"
+			],
+			[
+				"transa",
+				"lib/clients/transaction_search.rb"
+			],
+			[
+				"credits",
+				"lib/varsity_tutors/credits.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"credits.rb",
+				"lib/varsity_tutors/credits.rb"
+			],
+			[
+				"tutoring_session",
+				"lib/varsity_tutors/tutoring_sessions.rb"
+			],
+			[
+				"app/views/clients/profile/profile.html.erb",
+				"app/views/clients/profile/profile.html.erb"
+			],
+			[
+				"database.yml",
+				"config/database.yml"
+			],
+			[
+				"contact",
+				"app/models/contact.rb"
+			],
+			[
+				"fixtures/rates",
+				"test/fixtures/rates.yml"
+			],
+			[
+				"lib/varsity_tutors/browser_phone_rollout.rb",
+				"lib/varsity_tutors/browser_phone_rollout.rb"
+			],
+			[
+				"app/views/v_calls/_place_call_banner.html.erb",
+				"app/views/v_calls/_place_call_banner.html.erb"
+			],
+			[
+				"app/views/clients/profile/profile.h",
+				"app/views/clients/profile/profile.html.erb"
+			],
+			[
+				"credit.rb",
+				"app/models/credit.rb"
+			],
+			[
+				"credit_fac",
+				"test/factories/credit_factory.rb"
+			],
+			[
+				"tutoring_session_fac",
+				"test/factories/tutoring_session_factory.rb"
+			],
+			[
+				"payment_pro",
+				"lib/payment_processing.rb"
+			],
+			[
+				"instal/",
+				"lib/instalments/instalment_plan.rb"
+			],
+			[
+				"instalment/refund",
+				"lib/instalments/refund.rb"
+			],
+			[
+				"rollout.rb",
+				"app/models/rollout.rb"
+			],
+			[
+				"test/lib/payment_processing_test.rb",
+				"test/lib/payment_processing_test.rb"
+			],
+			[
+				"credit_transfer_test",
+				"test/lib/financial/credit_transfer_tests.rb"
+			],
+			[
+				"payments_helper",
+				"app/helpers/payments_helper.rb"
+			],
+			[
+				"paymen",
+				"app/models/payment.rb"
+			],
+			[
+				"database.y",
+				"config/database.yml"
+			],
+			[
+				"start",
+				"start_docker.sh"
+			],
+			[
+				"client_ledger_spl",
+				"app/models/client_ledger_split.rb"
+			],
+			[
+				"credit_e",
+				"app/models/credit_expiration.rb"
+			],
+			[
+				"credit_expiration",
+				"app/models/credit_expiration.rb"
+			],
+			[
+				"client_ledger.rb",
+				"app/models/client_ledger.rb"
+			],
+			[
+				"client_balance.rb",
+				"app/models/client_balance.rb"
+			],
+			[
+				"devel",
+				"config/environments/development.rb"
+			],
+			[
+				"client_ledgers/m",
+				"lib/client_ledgers/manager.rb"
+			],
+			[
+				"client_ledger.rake",
+				"lib/tasks/client_ledger.rake"
+			],
+			[
+				"payments_con",
+				"app/controllers/payments_controller.rb"
+			],
+			[
+				"email_con",
+				"app/controllers/emails_controller.rb"
+			],
+			[
+				"intercept",
+				"app/views/emails/intercept.html.erb"
+			],
+			[
+				"tutoring_session_fa",
+				"test/factories/tutoring_session_factory.rb"
+			],
+			[
+				"views/activity_map",
+				"app/views/layouts/activity_map.html.erb"
+			],
+			[
+				"activity_map",
+				"app/controllers/activity_map_controller.rb"
+			],
+			[
+				"views/activity_map/",
+				"app/views/activity_map/map.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"credit_ep",
+				"app/models/credit_expiration.rb"
+			],
+			[
+				"client_led",
+				"lib/tasks/client_ledger.rake"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
